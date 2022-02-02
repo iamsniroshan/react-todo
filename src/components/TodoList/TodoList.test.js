@@ -23,6 +23,6 @@ describe('To check form submission', () => {
 describe('To check todo list', () => {
   const removeTodo = jest.fn()
   const updateTodo = jest.fn()
-  render(<Todo  removeTodo={removeTodo} updateTodo={updateTodo} />)
+  render(<Todo removeTodo={removeTodo} updateTodo={updateTodo} />)
 })
 
