@@ -1,8 +1,10 @@
 
 ## Installation
 
+#recommended node version 16.0.0
+
 1. Download or clone repository
-2. `npm install` to install the required npm packages to run
+2. `npm install --force` to install the required npm packages to run
 
 ## Usage
 
